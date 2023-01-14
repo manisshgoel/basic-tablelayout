@@ -1,0 +1,50 @@
+
+
+
+
+.f1
+{
+	font-family: "roboto", sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	color:white;
+	letter-spacing:2.5px;
+	text-align:bottom;
+}
+
+
+.f2
+{
+	font-family: 'Dancing Script', cursive;
+	font-size:40px;
+	font-weight:bold;
+	color:white;
+	letter-spacing:2px;
+}
+
+.f3
+{font-family: "roboto", sans-serif;
+	color:white;
+	font-size: 20px;	
+}
+
+.f4
+{font-family: "roboto", sans-serif;
+	color:black;
+	font-size: 20px;	
+}
+
+#a1
+{
+	text-align:top;
+}
+
+#header
+{
+	background-image: linear-gradient(to right,#17202a,#253343);
+}
+#header2
+{
+	background-image: linear-gradient(to right,#222222,#2c2c2c);
+}
+
